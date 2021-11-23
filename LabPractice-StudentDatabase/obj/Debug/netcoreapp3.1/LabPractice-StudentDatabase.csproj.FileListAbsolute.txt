@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.exe
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.deps.json
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.dll
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\bin\Debug\netcoreapp3.1\LabPractice-StudentDatabase.pdb
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.dll
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.pdb
+C:\Users\alexi\source\repos\Week 2\LabPractice-StudentDatabase\obj\Debug\netcoreapp3.1\LabPractice-StudentDatabase.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabPractice-StudentDatabase/1.0.0": {
+        "runtime": {
+          "LabPractice-StudentDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabPractice-StudentDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
