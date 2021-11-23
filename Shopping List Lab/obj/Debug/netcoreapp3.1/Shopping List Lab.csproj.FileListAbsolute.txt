@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.exe
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.deps.json
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.dll
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\bin\Debug\netcoreapp3.1\ShoppingListLab.pdb
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\ShoppingListLab.dll
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\ShoppingListLab.pdb
+C:\Users\alexi\source\repos\Week 2\Shopping List Lab\obj\Debug\netcoreapp3.1\Shopping List Lab.genruntimeconfig.cache

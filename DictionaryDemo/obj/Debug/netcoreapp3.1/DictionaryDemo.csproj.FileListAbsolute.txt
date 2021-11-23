@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.exe
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.deps.json
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\alexi\source\repos\Week 2\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.genruntimeconfig.cache
