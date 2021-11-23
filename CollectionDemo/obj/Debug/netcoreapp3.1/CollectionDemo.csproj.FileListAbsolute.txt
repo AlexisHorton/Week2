@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.exe
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.deps.json
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\alexi\source\repos\Week 2\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.genruntimeconfig.cache
