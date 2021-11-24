@@ -86,6 +86,7 @@ namespace StudentDabLab
 
             } while (GoAgain("Would you like to learn about another student? (y/n)"));
 
+            Console.WriteLine("Thanks for exploring! Bye!");
         }
     }
 }
