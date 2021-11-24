@@ -73,10 +73,10 @@ namespace Shopping_List_Lab
             foreach (string item in shoppingList)
             {
                 Console.WriteLine(item);
-                for (int i=0; i<shoppingList.Count; i++)
-                {
-                    Console.WriteLine("The total cost of your items is ");
-                }
+                //for (int i=0; i<shoppingList.Count; i++)
+                //{
+                //    Console.WriteLine($"The total cost of your items is ${i}.");
+                //}
             }
         }
     }
