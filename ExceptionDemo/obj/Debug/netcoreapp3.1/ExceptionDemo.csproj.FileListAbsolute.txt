@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.exe
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.deps.json
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Week 2\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.AssemblyReference.cache

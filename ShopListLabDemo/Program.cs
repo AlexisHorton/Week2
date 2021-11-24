@@ -14,6 +14,17 @@ namespace ShopListLabDemo
                 Console.WriteLine($"{pair.Key} {pair.Value}");
             }
         }
+        static void PrintCart(List<string> cart, Dictionary<string,decimal>menu)
+        {
+            decimal sum = 0.00m;
+            Console.WriteLine("Here are your items: ");
+            foreach (string item in cart) 
+            {
+                Console.WriteLine($"{item} price {menu[item]}");
+                sum += menu[item];
+            }
+            Console.WriteLine($"Your total is {sum}");
+        }
 
         static void Main(string[] args)
         {
@@ -37,6 +48,13 @@ namespace ShopListLabDemo
             menu["Apple"] = 0.75m;
 
             PrintMenu(menu);
+
+            // Let's add one item to the cart
+            cart.Add("Milk");
+            cart.Add("Apple");
+            cart.Add("Apple");
+
+            PrintCart(cart, menu);
         }
     }
 }

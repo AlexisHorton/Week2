@@ -11,3 +11,4 @@ C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopL
 C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.dll
 C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.pdb
 C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.csproj.AssemblyReference.cache

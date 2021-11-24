@@ -68,16 +68,17 @@ namespace Shopping_List_Lab
             } while (GoAgain("Would you like to add an item to your order? (y/n)"));
 
             Console.WriteLine("Thanks for your order!");
-            Console.WriteLine("Here's what you got: ");
+            Console.WriteLine("\nHere's what you got: ");
+
+            decimal sum = 0.00m;
 
             foreach (string item in shoppingList)
             {
-                Console.WriteLine(item);
-                //for (int i=0; i<shoppingList.Count; i++)
-                //{
-                //    Console.WriteLine($"The total cost of your items is ${i}.");
-                //}
+                Console.WriteLine($"{item} price {cost[item]}");
+                sum += cost[item];
             }
+            Console.WriteLine($"\nYour total is ${sum}.");
+
         }
     }
 }
