@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.exe
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.deps.json
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.dll
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\bin\Debug\netcoreapp3.1\ShopListLabDemo.pdb
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.dll
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.pdb
+C:\Users\alexi\source\repos\Week 2\ShopListLabDemo\obj\Debug\netcoreapp3.1\ShopListLabDemo.genruntimeconfig.cache

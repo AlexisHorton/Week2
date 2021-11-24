@@ -30,16 +30,23 @@ namespace StudentDabLab
             string[] hometowns = new string[] {"Chicago", "Detroit", "Atlanta", "Ferndale", "Jersey"};
             string[] food = new string[] {"Salad", "Pizza", "Subs", "Lobster", "Cookies" };
 
-            List<string> students = new List<string>();
-            students.Add("Alexis");
-            students.Add("Briauna");
-            students.Add("Sierra");
-            students.Add("Andrew");
-            students.Add("Carlos");
+            //List<string> students = new List<string>();
+            //students.Add("Alexis");
+            //students.Add("Briauna");
+            //students.Add("Sierra");
+            //students.Add("Andrew");
+            //students.Add("Carlos");
 
             do
             {
-                foreach(string item in names)
+                List<string> students = new List<string>();
+                students.Add("Alexis");
+                students.Add("Briauna");
+                students.Add("Sierra");
+                students.Add("Andrew");
+                students.Add("Carlos");
+
+                foreach (string item in names)
                 {
                     Console.WriteLine("\n"+ item);
                 }

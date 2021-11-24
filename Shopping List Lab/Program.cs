@@ -40,17 +40,17 @@ namespace Shopping_List_Lab
             do
             {
 
-                Console.WriteLine("Hello! Welcome to the Market!");
+                Console.WriteLine("Hello there! Welcome to the Market!");
 
                 foreach (var pair in cost)
                 {
-                    Console.WriteLine($" Item \n {pair.Key}      Cost {pair.Value}");
+                    Console.WriteLine($"{pair.Key,-6}{pair.Value,12}");
                 }
 
                 bool validEntry = false;
                 do
                 {
-                    Console.Write("\nEnter your grocery item: ");
+                    Console.Write("\nPick your grocery item: ");
                     string entry = Console.ReadLine().ToLower();
                     if (cost.ContainsKey(entry))
                     {
