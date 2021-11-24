@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.exe
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.deps.json
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.dll
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\bin\Debug\netcoreapp3.1\ListMemoryDem2.pdb
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.dll
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.pdb
+C:\Users\alexi\source\repos\Week 2\ListMemoryDem2\obj\Debug\netcoreapp3.1\ListMemoryDem2.genruntimeconfig.cache

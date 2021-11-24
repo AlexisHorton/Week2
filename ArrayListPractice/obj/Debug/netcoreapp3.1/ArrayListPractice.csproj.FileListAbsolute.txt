@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.exe
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.deps.json
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.dll
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\bin\Debug\netcoreapp3.1\ArrayListPractice.pdb
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.dll
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.pdb
+C:\Users\alexi\source\repos\Week 2\ArrayListPractice\obj\Debug\netcoreapp3.1\ArrayListPractice.genruntimeconfig.cache
