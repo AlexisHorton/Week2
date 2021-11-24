@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.exe
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.deps.json
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.runtimeconfig.json
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.dll
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\bin\Debug\netcoreapp3.1\StudentDabLab.pdb
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.dll
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.pdb
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.genruntimeconfig.cache
