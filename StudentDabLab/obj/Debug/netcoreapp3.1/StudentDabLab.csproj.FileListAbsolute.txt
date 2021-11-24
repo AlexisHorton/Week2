@@ -11,3 +11,4 @@ C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\Student
 C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.dll
 C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.pdb
 C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Week 2\StudentDabLab\obj\Debug\netcoreapp3.1\StudentDabLab.csproj.AssemblyReference.cache

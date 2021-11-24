@@ -39,6 +39,10 @@ namespace StudentDabLab
 
             do
             {
+                foreach(string item in names)
+                {
+                    Console.WriteLine("\n"+ item);
+                }
                 string entry = "";
                 int num;
                 bool validEntry = false;
@@ -86,7 +90,7 @@ namespace StudentDabLab
 
             } while (GoAgain("Would you like to learn about another student? (y/n)"));
 
-            Console.WriteLine("Thanks for exploring! Bye!");
+            Console.WriteLine("Thanks for exploring! See you next time!");
         }
     }
 }
